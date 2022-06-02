@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba6b815-8561-481d-bf95-b49ad1ee3fa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variablesClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise23array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise24loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,44 +35,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Class6">
-    <configuration name="Class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class2" />
+}</component>
+  <component name="RunManager" selected="Application.Exercise25">
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2" />
       <module name="Stilp_Ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class3" />
+    <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise22" />
       <module name="Stilp_Ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class4" />
+    <configuration name="Exercise23array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise23array" />
       <module name="Stilp_Ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class5" />
+    <configuration name="Exercise24loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise24loop" />
       <module name="Stilp_Ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class6" />
+    <configuration name="Exercise25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise25" />
       <module name="Stilp_Ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class6" />
-        <item itemvalue="Application.Class5" />
-        <item itemvalue="Application.Class4" />
-        <item itemvalue="Application.Class3" />
-        <item itemvalue="Application.Class2" />
+        <item itemvalue="Application.Exercise25" />
+        <item itemvalue="Application.Exercise24loop" />
+        <item itemvalue="Application.Exercise23array" />
+        <item itemvalue="Application.Exercise22" />
+        <item itemvalue="Application.Exercise2" />
       </list>
     </recent_temporary>
   </component>
