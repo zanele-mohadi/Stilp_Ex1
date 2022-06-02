@@ -14,6 +14,7 @@ public class Exercise25           {
        {
            System.out.println(province [i]);
            i++;
+        //   this  is  when  we  are  using a  while  loop
        }*/
         int i =  0;
        do{
