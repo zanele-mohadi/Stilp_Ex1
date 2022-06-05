@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Class2 {
     public static double num1;
     public static double num2;

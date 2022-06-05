@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Class6 {
     public static String str1 = "I don't like programing";
     public static String str2 = "its better to go home";

@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class variablesClass {
     public static double rent=9000;
             public static String location= "midrand";

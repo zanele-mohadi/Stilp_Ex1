@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Exercise2 {
     public static void main(String[] args) {
 

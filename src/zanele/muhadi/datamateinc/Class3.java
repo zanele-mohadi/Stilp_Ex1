@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Class3 {
     public static void main(String[] args) {
         int num10 = 10;

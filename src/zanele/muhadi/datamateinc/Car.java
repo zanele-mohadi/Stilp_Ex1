@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Car {
     private String model;
     private String type;

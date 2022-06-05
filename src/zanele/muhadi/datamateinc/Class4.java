@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Class4 {
     public static void main(String[] args) {
         int duration= 355;

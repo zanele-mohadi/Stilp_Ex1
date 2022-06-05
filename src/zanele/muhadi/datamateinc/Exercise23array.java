@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Exercise23array {
     public static void main(String[] args) {
         String province[] = new String [7];

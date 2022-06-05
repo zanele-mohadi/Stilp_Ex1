@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Exercise24loop {
     public static void main(String[] args) {
         int i;

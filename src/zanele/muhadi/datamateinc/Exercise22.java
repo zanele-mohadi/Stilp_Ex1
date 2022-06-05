@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Exercise22 {
     public static void main(String[] args) {
         String name[][] = new String[3][3];

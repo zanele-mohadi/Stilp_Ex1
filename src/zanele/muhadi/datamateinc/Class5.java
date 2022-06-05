@@ -1,3 +1,5 @@
+package zanele.muhadi.datamateinc;
+
 public class Class5 {
     public static void main(String[] args) {
         displayCar();
