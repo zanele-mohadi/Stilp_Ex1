@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ba6b815-8561-481d-bf95-b49ad1ee3fa0" name="Changes" comment="added  all exercises (2)">
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise46.java" afterDir="false" />
+    <list default="true" id="7ba6b815-8561-481d-bf95-b49ad1ee3fa0" name="Changes" comment="added  all exercises (4)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Class2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Class3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Class4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Class5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Class6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise23array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise23array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise24loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise24loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variablesClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/variablesClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zanele/muhadi/datamateinc/Exercise46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654160383188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added  all exercises (4)">
+      <created>1654449189313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654449189313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added  all exercises (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added  all exercises (2)" />
+    <MESSAGE value="added  all exercises (4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added  all exercises (4)" />
   </component>
 </project>
